@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+.cyan {
+  background-color: cyan;
+  margin: 0;
+  border: solid 5px
+}
+.violet {
+  background-color: violet;
+  margin: 0 0 0 210px;
+  border: solid 10px;
+}
+.green {
+  background-color: green;
+  margin: 0 0 0 430px;
+  border: solid 20px
+}
